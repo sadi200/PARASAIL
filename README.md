@@ -29,7 +29,7 @@ The bot processes multiple wallets sequentially and provides detailed logs of th
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropinsiders/Vendetta-Auto-Bot.git
+git clone https://github.com/sadi200/PARASAIL.git
 ```
 
 2. Navigate to the project directory:
@@ -127,18 +127,3 @@ Getting completed quests...
 Waiting 2 seconds before processing next wallet...
 ...
 ```
-
-## Important Notes
-
-- This script interacts with the Vendetta game API, which may change at any time
-- Use at your own risk and in accordance with the game's terms of service
-- Multiple rapid requests may be rate-limited by the server
-- Using proxies can help avoid rate limiting but may also introduce connectivity issues
-
-## License
-
-MIT License
-
-## Disclaimer
-
-This tool is for educational purposes only. The authors are not responsible for any misuse of this software or any consequences that may arise from its use.
