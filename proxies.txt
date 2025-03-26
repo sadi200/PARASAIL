@@ -1,0 +1,14 @@
+# HTTP/HTTPS proxies
+http://11.22.33.44:8080
+https://user:pass@55.66.77.88:8443
+123.456.789.012:3000
+
+# SOCKS proxies
+socks4://11.22.33.55:1080
+socks5://user:password@66.77.88.99:1080
+
+# Simple format (defaults to HTTP)
+55.66.77.88:8080
+
+# Host:port:username:password format
+100.200.300.400:8888:username:password
