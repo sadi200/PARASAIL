@@ -5,7 +5,7 @@
 1. Clone the repository:
 ```bash
 git clone https://github.com/sadi200/PARASAIL.git
-cd Parasail-Auto-Bot
+cd PARASAIL
 ```
 
 2. Install dependencies:
