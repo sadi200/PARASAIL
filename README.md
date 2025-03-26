@@ -34,7 +34,7 @@ git clone https://github.com/sadi200/PARASAIL.git
 
 2. Navigate to the project directory:
 ```bash
-cd Vendetta-Auto-Bot
+cd PARASAIL
 ```
 
 3. Install dependencies:
