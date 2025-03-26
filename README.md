@@ -1,26 +1,10 @@
 # Parasail Node Bot
 
-## Description
-Parasail Node Bot is an automated tool for managing and interacting with Parasail network nodes. It provides a terminal-based UI for monitoring node stats, performing check-ins, and automating node-related tasks.
-
-## Features
-- Automatic user verification with Ethereum wallet
-- Node onboarding
-- Regular check-ins
-- Real-time node statistics tracking
-- Terminal-based dashboard with logging and stats display
-- Automatic token refresh mechanism
-
-## Prerequisites
-- Node.js (v14 or higher)
-- An Ethereum wallet with private key
-- Internet connection
-
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropinsiders/Parasail-Auto-Bot.git
+git clone https://github.com/sadi200/PARASAIL.git
 cd Parasail-Auto-Bot
 ```
 
